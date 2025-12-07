@@ -1,0 +1,27 @@
+# Sistem / OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# File konfigurasi sensitif (kalau ada)
+.env
+.env.local
+
+# Composer (kalau suatu saat pakai)
+vendor/
+
+# Folder build / output (hasil kompres / export)
+build/
+dist/
+
+# Folder upload (kalau nanti ada upload file)
+uploads/
+upload/
+files/
