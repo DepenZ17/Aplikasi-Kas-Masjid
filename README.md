@@ -30,7 +30,7 @@ Aplikasi kas masjid berbasis web yang digunakan untuk mencatat pemasukan, pengel
 - **Bahasa Pemrograman**: PHP
 - **Database**: MySQL (file schema ada di folder `db/`)
 - **Front-end**:
-  - PHP, HTML, CSS, JavaScript
+  - HTML, CSS, JavaScript
   - Bootstrap
   - jQuery, DataTables, Select2
   - Font Awesome
