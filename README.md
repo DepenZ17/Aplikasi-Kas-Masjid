@@ -17,7 +17,7 @@ Aplikasi kas masjid berbasis web yang digunakan untuk mencatat pemasukan, pengel
 - **Laporan & Rekap**
   - Rekap saldo kas (total pemasukan, total pengeluaran, dan saldo akhir).
   - Laporan dalam rentang tanggal tertentu (misal per bulan / per tahun).
-  - Cetak / export laporan (jika tersedia di aplikasi).
+  - Cetak / export laporan.
 
 - **Manajemen User (opsional)**
   - Hak akses admin / bendahara (sesuai menu `admin` dan `bendahara`).
